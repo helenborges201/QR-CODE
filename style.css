@@ -33,7 +33,8 @@ h1{
     text-align: center;
     margin-top:2em;
     margin-bottom: 1em;
-    padding: 0px;
+    padding: 0px 20px 15px;
+    color: hsl(217, 45%, 22%);
     font-family: 'Outfit', sans-serif;
     font-weight: 700;
     font-size: 1.4em;
@@ -45,5 +46,6 @@ p{
     text-align: center;
     line-height: 20px;
     color: hsl(214, 15%, 56%);
+    padding: 0px 20px 15px;
 
 }
